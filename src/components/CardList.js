@@ -1,4 +1,3 @@
-import { id } from 'postcss-selector-parser';
 import React from 'react';
 import Card from './Card';
 
